@@ -8,3 +8,4 @@ H:\Binsu_Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompi
 H:\Binsu_Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
 H:\Binsu_Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 H:\Binsu_Exercise\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+H:\Binsu_Exercise\ConsoleApp2\ConsoleApp2\bin\Debug\Settings.job

@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using log4net;
 
-[assembly: log4net.Config.XmlConfigurator(Watch = true)]
 
 namespace ConsoleApp2
 {
